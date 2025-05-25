@@ -8,7 +8,7 @@ A short game made in Unity!
 
 ## 📸 Screenshots
 
-
+https://github.com/NearLovesElo/Midnight-Carnival/tree/main/Screenshots
 
 ## 🎥 Gameplay Video
 
