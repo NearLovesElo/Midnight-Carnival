@@ -1,2 +1,15 @@
-# Midnight-Carnival
-A game about guarding a haunted carnival at night. Players must shut down all the rides before dawn while battling creeping madness and unseen horrors.
+# Midnight Carnival
+
+A short game made in Unity!
+
+## 🕹️ Download the Game
+
+📦 [Download Eldershard Build (.zip)]( )
+
+## 📸 Screenshots
+
+
+
+## 🎥 Gameplay Video
+
+[Watch Gameplay on YouTube](https://youtube.com/your-video-link)
