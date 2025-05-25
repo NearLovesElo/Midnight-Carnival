@@ -12,4 +12,4 @@ https://github.com/NearLovesElo/Midnight-Carnival/tree/main/Screenshots
 
 ## 🎥 Gameplay Video
 
-(https://youtube.com/your-video-link](https://drive.google.com/file/d/1cpOSsmCaRLh3qen_XUvkmlG0ExcMth4D/view?usp=sharing)
+https://youtube.com/your-video-link](https://drive.google.com/file/d/1cpOSsmCaRLh3qen_XUvkmlG0ExcMth4D/view?usp=sharing
